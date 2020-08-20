@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/chungyuhuang/whatsappbot/constant"
+	"github.com/chungyuhuang/whatsappbot/handler"
+	"github.com/chungyuhuang/whatsappbot/logger"
 	"github.com/op/go-logging"
-	"github.ibm.com/cyhuang/whatsappbot/constant"
-	"github.ibm.com/cyhuang/whatsappbot/handler"
-	"github.ibm.com/cyhuang/whatsappbot/logger"
 	"log"
 	"os"
 	"strings"
